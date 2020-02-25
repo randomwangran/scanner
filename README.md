@@ -1,3 +1,9 @@
+I would like to use camera to scanner things automatically this might
+be a good starting point.
+
+# compile it
+I had some hard time with some requirement.
+
 # Scanner
 Scans documents using your camera :)
 
